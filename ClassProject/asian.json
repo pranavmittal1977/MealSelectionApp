@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kung Pao",
+        "image": "kung_pao",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Vegan Tofu",
+        "image": "vegan_tofu",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Turkey",
+        "image": "turkey",
+        "type": "Non Vegetarian"
+    },
+    {
+        "name": "Chicken Curry",
+        "image": "chicken_curry",
+        "type": "Non Vegetarian"
+    }
+]

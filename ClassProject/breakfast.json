@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Pancakes",
+        "image": "pancakes",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Salad Bowl",
+        "image": "saladbowl",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Omlette",
+        "image": "omlette",
+        "type": "Non Vegetarian"
+    },
+    {
+        "name": "Chicken Burrito",
+        "image": "chickenburrito",
+        "type": "Non Vegetarian"
+    }
+]

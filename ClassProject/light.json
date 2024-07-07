@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Cauliflower Quesadillas",
+        "image": "quesadillas",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Pork Ribs",
+        "image": "porkribs",
+        "type": "Non Vegetarian"
+    }
+]

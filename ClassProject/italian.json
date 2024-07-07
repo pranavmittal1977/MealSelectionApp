@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Chicken Rossita",
+        "image": "chickenrossita",
+        "type": "Non Vegetarian"
+    },
+    {
+        "name": "Pizza",
+        "image": "pizza",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Pasta",
+        "image": "pasta",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Prawn Curry",
+        "image": "prawncurry",
+        "type": "Non Vegetarian"
+    }
+]

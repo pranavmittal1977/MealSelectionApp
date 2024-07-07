@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Brussels Sprouts",
+        "image": "brusselsprouts",
+        "type": "Vegetarian"
+    },
+    {
+        "name": "Bacon and Potato",
+        "image": "baconpotato",
+        "type": "Non Vegetarian"
+    }
+]
